@@ -6,3 +6,6 @@ This is my sandbox area.
 ## Clone a file
 
 ## Upload a file
+
+# Hashtag then space
+#Nospace=noformat
