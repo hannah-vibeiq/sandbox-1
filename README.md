@@ -1,15 +1,16 @@
-# Hannah world
+# Hannah-vibeiq
 
-## Introduction
+## This is my github
 This is my sandbox area.
 
 ## Table of Contents
-1. [Casey 1](#Casey-1)
-2. [Casey 2](#Casey-2)
-3. [Casey 3](#Casey-3)
+1. [hannah](#hannah)
+2. [casey](#casey)
+3. [elizabeth](#elizabeth)
 
-## Casey 1
-### Casey 1.1
-Description or details about this subsection.
-
-### Casey 1.2
+## hannah
+In the table of contents, the bracket link and the hashtag link need to be adjacent (no space in between)
+## casey
+There does need to be parantheses around the hashtag
+## Elizabeth
+I believe it is case-sensitive (nope these are not)
