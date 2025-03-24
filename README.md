@@ -12,8 +12,5 @@ This is my sandbox area.
 In the table of contents, the bracket link and the hashtag link need to be adjacent (no space in between)
 ## casey
 There does need to be parantheses around the hashtag
-## Elizabeth
-I believe it is case-sensitive (nope these are not)
-## hannah
-space
-## HANnah
+## elizabeth
+I don't think these are case-sensitive but I want to test again
